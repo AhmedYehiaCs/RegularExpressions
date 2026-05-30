@@ -1,0 +1,1 @@
+This project contains the lessons I learned from the University of Michigan’s Python course. It covers regular expressions, starting with an introduction to what they are and progressing to practical commands and usage. Finally, it includes a test on the regular expressions module to reinforce understanding.
